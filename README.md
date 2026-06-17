@@ -4,10 +4,10 @@ Unofficial Python integrations for Aloha.
 
 ## Integrations
 
-- `aloha_get_check_detail.py` - `get_check_detail` (72,370 live events).
-- `aloha_search_checks.py` - `search_checks` (5,368 live events).
-- `aloha_get_check_detail_alt.py` - `get_check_detail_alt` (2,141 live events).
-- `aloha_list_stores.py` - `list_stores` (24 live events).
+- `aloha_get_check_detail.py` - `get_check_detail`.
+- `aloha_search_checks.py` - `search_checks`.
+- `aloha_get_check_detail_alt.py` - `get_check_detail_alt`.
+- `aloha_list_stores.py` - `list_stores`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
