@@ -4,10 +4,10 @@ Unofficial Python integrations for Aloha.
 
 ## Integrations
 
-- `aloha_get_check_detail.py` - `get_check_detail` (72,370 live events).
-- `aloha_search_checks.py` - `search_checks` (5,368 live events).
-- `aloha_get_check_detail_alt.py` - `get_check_detail_alt` (2,141 live events).
-- `aloha_list_stores.py` - `list_stores` (24 live events).
+- `aloha_get_check_detail.py` - `get_check_detail`.
+- `aloha_search_checks.py` - `search_checks`.
+- `aloha_get_check_detail_alt.py` - `get_check_detail_alt`.
+- `aloha_list_stores.py` - `list_stores`.
 
 ## Usage
 
